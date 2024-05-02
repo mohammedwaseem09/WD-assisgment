@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+<title> list tag </title>
+</head>
+
+<body>
+<u1>
+    
+     <li> pizza </li>
+     <li> sandwich </li>
+     <li> burger </li>
+     <li> samosa </li>
+
+
+</u1>
+</body>
+</html>
